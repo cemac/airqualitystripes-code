@@ -7,10 +7,6 @@ The Air Quality Stripes project plots outdoor particulate matter (PM2.5) concent
 
 Any questions? Contact: airqualitystripes@gmail.com
 
-The project is a collaboration between the University of Edinburgh (EPCC), the University of Leeds (School of Earth and Environment), the Software Sustainability Institute, the UK Met Office and North Carolina State University.
-
-These images were produced by: Kirsty Pringle, Jim McQuaid, Richard Rigby, Steve Turnock, Carly Reddington, Meruyert Shayakhmetova, Malcolm Illingworth, Denis Barclay, Ed Hawkins, Douglas Hamilton and Ethan Brain.
-
 **Code Summary (10/12/2024)**
 
 **List_of_Cities_Continent.txt**
@@ -60,6 +56,10 @@ Workflow
 
    - Generates time-series plots for each city in four different formats
    - Also generates plot comparing model and sattellite data (on Zenodo) for each city
+  
+The project is a collaboration between the University of Edinburgh (EPCC), the University of Leeds (School of Earth and Environment), the Software Sustainability Institute, the UK Met Office and North Carolina State University.
+
+These images were produced by: Kirsty Pringle, Jim McQuaid, Richard Rigby, Steve Turnock, Carly Reddington, Meruyert Shayakhmetova, Malcolm Illingworth, Denis Barclay, Ed Hawkins, Douglas Hamilton and Ethan Brain.
 
 4) Output Generation:
 
